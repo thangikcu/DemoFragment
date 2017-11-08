@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_frame1"
+        android:title="frame 1"/>
+
+    <item android:id="@+id/nav_frame2"
+        android:title="frame 2"/>
+
+    <item android:id="@+id/nav_frame3"
+        android:title="frame 3"/>
+</menu>
